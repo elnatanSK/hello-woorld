@@ -1,6 +1,5 @@
 
 def main():
-<<<<<<< HEAD
 #######
 
     print("hello world")
